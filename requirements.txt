@@ -1,0 +1,3 @@
+yt-dlp
+
+🔧 Note: You should install ffmpeg manually on your system (not via pip)
