@@ -6,6 +6,9 @@ A Terminal-based Python tool to download videos or MP3 from:
 - 📘 Facebook (Public Videos)
 
 ---
+![Screenshot 2025-06-24 215713](https://github.com/user-attachments/assets/ff39cf99-e642-4783-9453-babb3f58fdbe)
+![Screenshot 2025-06-24 215927](https://github.com/user-attachments/assets/0b2cd634-cd4e-4d60-a211-29a270114a34)
+
 
 ### 👨‍💻 Created by: **Aashish_Cyber_H4CKS**  
 🎯 Version: **1.0**
